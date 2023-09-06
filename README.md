@@ -22,3 +22,5 @@ Munnar the exotic hill station in Kerala is blessed generously by the nature. Th
 * Pulihora
 
 * Karam roti
+
+![Linking MyStats file to README file](./MyStats.md)
