@@ -13,3 +13,16 @@ I am an avid learner with a deep passion for antiques, archaeology, and the myst
 | tennis       | Tennis is a good for health, fitness.                    | 1 hour              |
 | Hiking       | Hiking reduce your risk of heart disease and stroke.     | 2 hour              |
 | Swimming     | Swimming is a great stress reducer.                      | 45 minutes          |
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+# My Favourite Quotes from scientists
+> "God is the name people give to the reason we are here"
+>
+> -- *Stephen hawking*
+
+> "Learn from yesterday, live for today, hope for tomorrow"
+>
+> -- *Albert Einstein*
+
