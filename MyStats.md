@@ -51,5 +51,3 @@ const unique = array.filter((element, index) => {
 ```
 
 Snippet Source Link : [Snippet Source Link](https://css-tricks.com/snippets/javascript/remove-duplicates-from-an-array/)
-
-[Click here to know about me](MyStats,md)
